@@ -1,5 +1,8 @@
-## Hi there 👋
+My name is Franny. 
 
+Current Math undergrad at the University of Waterloo. 
+
+I love numbers and Jojo's Bizarre Adventure.
 <!--
 **frannygao/frannygao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...how 
 -->
