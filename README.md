@@ -1,8 +1,8 @@
-My name is Franny. 
+my name is Franny
 
-Current Math undergrad at the University of Waterloo. 
+current Math undergrad at the University of Waterloo
 
-I love numbers and Jojo's Bizarre Adventure.
+i love numbers and Jojo's Bizarre Adventure
 <!--
 **frannygao/frannygao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
