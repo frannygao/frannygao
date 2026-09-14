@@ -1,8 +1,13 @@
+hi
+
 my name is Franny
 
 current math undergrad at the university of waterloo
 
-i love numbers and jojo's bizarre adventure
+i love math and finance
+
+reach me at franny.gao@uwaterloo.ca😊
+
 <!--
 **frannygao/frannygao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
